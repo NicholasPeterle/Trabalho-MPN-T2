@@ -1,12 +1,19 @@
 03.02.2015
 
 Pauta:
-- Discutir os principais processos da empresa (Venda, Servi�os e Reposi��o de Estoque) juntamente com o representante da empresa.
+- Discutir os principais processos da empresa (Venda, Serviços e Reposição de Estoque) juntamente com o representante da empresa.
+
+- Fase 1: Identificação de Processos: 
+Nesta fase o grupo deve produzir três principais entregas: a Arquitetura de Processos da organização, a Avaliação dos Processos de Negócios, e o Escopo do Ciclo de Melhorias. Para elaborar a Arquitetura de Processos, o grupo deverá utilizar a técnica da Matriz Caso/Função e, depois, que os processos enumerados, produzir uma ilustração que represente a arquitetura da organização.
+Após estabelecida a arquitetura de processos, o grupo deve estabelecer o Escopo da Melhoria de Processos, realizando a Avaliação dos Processos com base nos aspectos Importância, Disfunção e Viabilidade. Com base nessa avaliação, o grupo estabelecerá quais processos serão descobertos de forma detalhada.
+No fim dessa fase, o grupo deverá ter produzido a Arquitetura de Processos da Organização, a Avaliação dos Processos e a Seleção dos Processos a serem descobertos no ciclo de melhoria de processos. Todos esses resultados devem estar documentados no repositório. Para instruções detalhadas sobre a realização dessa fase ver Aula 05 - Identificação de Processos, e Capítulo 2 do livro texto.
+ 
 
 Encaminhamentos:
 - Todos		: 	Estudar Git e Criar conta no Git;
 - Gian Lucas	:	Desenvolver os modelos de cada processo de acordo com o que foi esclarecido pelo representante;
-- Jos� Augusto	:	Desenvolver os modelos de cada processo de acordo com o que foi esclarecido pelo representante;
+- José Augusto	:	Desenvolver os modelos de cada processo de acordo com o que foi esclarecido pelo representante;
 - Jonathan	:	Desenvolver os modelos de cada processo de acordo com o que foi esclarecido pelo representante;
 - Mateus Gabi	:	Desenvolver os modelos de cada processo de acordo com o que foi esclarecido pelo representante;
 - Nicholas	:	Desenvolver os modelos de cada processo de acordo com o que foi esclarecido pelo representante;
+
